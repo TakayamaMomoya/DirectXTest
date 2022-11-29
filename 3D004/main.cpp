@@ -638,7 +638,7 @@ void Draw(void)
 		DrawShadow();
 
 		//ビルボード描画
-		DrawBillBoard();
+		//DrawBillBoard();
 
 		//体力表示描画
 		//DrawRemainLife();
