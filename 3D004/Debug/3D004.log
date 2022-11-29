@@ -1,3 +1,27 @@
-﻿  player.cpp
-  3D004.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\3D004\3D004.exe
-  3D004.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\3D004\3D004.pdb (Full PDB)
+﻿  wall.cpp
+  shadow.cpp
+  remainlife.cpp
+  Polygon.cpp
+  player.cpp
+  particle.cpp
+  meshWall.cpp
+  meshfield.cpp
+  meshdome.cpp
+  meshcylinder.cpp
+  main.cpp
+  light.cpp
+  input.cpp
+  field.cpp
+  explosion.cpp
+  enemy.cpp
+  effect.cpp
+  debugProc.cpp
+  camera.cpp
+  bullet.cpp
+  コードを生成中...
+c:\users\student\documents\visual studio 2015\projects\repdirectx\3d004\input.cpp(55): warning C4715: 'InitDevice': 値を返さないコントロール パスがあります。
+  コンパイル中...
+  billboard.cpp
+  コードを生成中...
+  3D004.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\RepDirectX\3D004\3D004.exe
+  3D004.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\RepDirectX\3D004\3D004.pdb (Full PDB)

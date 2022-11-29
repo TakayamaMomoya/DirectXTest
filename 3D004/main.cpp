@@ -626,7 +626,7 @@ void Draw(void)
 		//DrawMeshCylinder();
 
 		//メッシュドーム描画
-		DrawMeshDome();
+		//DrawMeshDome();
 
 		//エフェクト描画
 		DrawEffect();
